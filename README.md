@@ -1,5 +1,5 @@
 # Reservamos CSS / Sass Styleguide
-Guía de estilos para código CSS / SSCC
+Guía de estilos para código CSS / SCSS
 
 ## Objetivos
 - Utilizar el menor código posible
