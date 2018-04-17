@@ -1,4 +1,5 @@
-# Reservamos Code Guidelines
+# Reservamos CSS / Sass Styleguide
+Guía de estilos para código CSS / SSCC
 
 ## Objetivos
 - Utilizar el menor código posible
@@ -7,6 +8,9 @@
 - HTML semántico
 - Estandarizar Font-Styles
 - Tener un Color System
+
+## Instalación
+Instrucciones para usar stylelint para enforzar ciertas reglas en la [wiki](https://github.com/reservamos/css/wiki/Installation)
 
 ## Tabla de contenido
 
